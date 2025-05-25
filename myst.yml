@@ -30,6 +30,8 @@ project:
       children:
         - file: Exercise7.ipynb
     - file: Exercise8.ipynb
+    - file: Exercise9.ipynb
+    - file: Exercise10.ipynb
 site:
   template: book-theme
   options:
