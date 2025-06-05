@@ -32,6 +32,7 @@ project:
     - file: Exercise8.ipynb
     - file: Exercise9.ipynb
     - file: Exercise10.ipynb
+    - file: Exercise11.ipynb
 site:
   template: book-theme
   options:
