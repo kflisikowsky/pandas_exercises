@@ -34,7 +34,6 @@ project:
     - file: Exercise10.ipynb
     - file: Exercise11.ipynb
     - file: Exercise12.ipynb
-    - file: erowy.ipynb 
 site:
   template: book-theme
   options:
